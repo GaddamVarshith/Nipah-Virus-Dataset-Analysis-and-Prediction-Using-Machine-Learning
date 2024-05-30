@@ -22,6 +22,8 @@ The dataset used in this project is related to the Nipah virus. It includes vari
 ## Installation
 
 To get started with this project, follow these steps:
+..**to navigate to the project directory:** click on below link
+https://github.com/GaddamVarshith/Nipah-Virus-Dataset-Analysis-and-Prediction-Using-Machine-Learning.git
 
 1. **Clone the repository:**
 
