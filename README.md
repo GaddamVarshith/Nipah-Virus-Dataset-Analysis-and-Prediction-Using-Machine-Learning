@@ -1,6 +1,6 @@
 # Nipah Virus Dataset Analysis and Prediction Using Machine Learning
 
-## Overview
+## Overvie
 
 This repository contains a comprehensive analysis of the Nipah virus dataset. It includes data preprocessing, visualization, and predictive modeling using machine learning and deep learning techniques. The project aims to provide insights into the dataset and build models to predict outcomes based on the features provided.
 
